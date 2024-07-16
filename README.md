@@ -14,5 +14,6 @@ In order for the code to run, take the following steps:
    (the data used for training is not uploaded due to data protection of the participants)
   - using the training.ipynb file you can train the pretrained models
   - in the Results.ipynb file you can use the pretrained models and load the task specific
-    weights, that can be found in the weights folder 
+    weights, that can be found in the weights folder
+      - The naming convention of the weights is: weights_**Model**_**Task**_**Batchsize**_**Epochs** 
 
