@@ -14,6 +14,7 @@ In order for the code to run, take the following steps:
    (the data used for training is not uploaded due to data protection of the participants)
   - using the training.ipynb file you can train the pretrained models
   - in the Results.ipynb file you can use the pretrained models and load the task specific
-    weights, that can be found in the weights folder
+    weights
+  - the weights can be found in the master branch. Only the weights for the task of the ResNet are available as the file size for the ViT weights exceeded the datalimit available for Github files.
       - The naming convention of the weights is: weights_ **Model** _ **Task** _ **Batchsize** _ **Epochs** 
 
